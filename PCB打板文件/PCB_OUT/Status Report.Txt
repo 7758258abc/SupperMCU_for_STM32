@@ -1,0 +1,33 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Free Documents]
+   Generated File[外设连接基座PCB图3__Copper_Signal_Top.gbr]
+   Generated File[外设连接基座PCB图3__Copper_Signal_1.gbr]
+   Generated File[外设连接基座PCB图3__Copper_Signal_2.gbr]
+   Generated File[外设连接基座PCB图3__Copper_Signal_Bot.gbr]
+   Generated File[外设连接基座PCB图3__Pads_Bot.gbr]
+   Generated File[外设连接基座PCB图3__Pads_Top.gbr]
+   Generated File[外设连接基座PCB图3__Legend_Bot.gbr]
+   Generated File[外设连接基座PCB图3__Soldermask_Bot.gbr]
+   Generated File[外设连接基座PCB图3__Paste_Bot.gbr]
+   Generated File[外设连接基座PCB图3__Legend_Top.gbr]
+   Generated File[外设连接基座PCB图3__Paste_Top.gbr]
+   Generated File[外设连接基座PCB图3__Soldermask_Top.gbr]
+   Generated File[外设连接基座PCB图3__Keep-out.gbr]
+   Generated File[外设连接基座PCB图3__Mechanical_13.gbr]
+   Generated File[外设连接基座PCB图3__Mechanical_1.gbr]
+   Generated File[外设连接基座PCB图3__Mechanical_15.gbr]
+   Generated File[外设连接基座PCB图3__Profile.gbr]
+   Generated File[外设连接基座PCB图3__NPTH_Drill.gbr]
+   Generated File[外设连接基座PCB图3__PTH_Drill.gbr]
+   Generated File[外设连接基座PCB图3__Drawing_1.gbr]
+   Generated File[外设连接基座PCB图3__Drillmap_1.gbr]
+   Generated File[外设连接基座PCB图3_.RUL]
+   Generated File[外设连接基座PCB图3_.EXTREP]
+   Generated File[外设连接基座PCB图3_.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 13:06:46 On 2021/10/24

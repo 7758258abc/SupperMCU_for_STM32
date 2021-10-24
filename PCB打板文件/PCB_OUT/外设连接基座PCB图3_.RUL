@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\wqc\Desktop\PCB\工程程序\封装库的工程\21 超级系统核心正式版V1\外设连接基座PCB图3_.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
